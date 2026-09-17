@@ -1,3 +1,4 @@
 Name: Jake
 Medications: amphetamine
 Allergies: None
+Heart Rate: 220/70
