@@ -1,4 +1,4 @@
 Name:Oscar
 Interactions 1
 Interactions 2
-Placeholder
+warfarin + ibuprofen: severe, monitor INR
